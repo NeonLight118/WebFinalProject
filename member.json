@@ -1,0 +1,17 @@
+{
+	"members":
+	[
+		{
+			"name" : "Sebastian Tobiasz ",
+			"Slogin" : "tobiasse",
+			"Snumber" : "991 378 118",
+			"Spicture" : "sebastian.jpg"
+		},
+		{
+			"name" : "Wesley Stevens",
+			"Slogin" : "stevenwe",
+			"Snumber" : "991 390 199",
+			"Spicture" : "wesley.jpeg"
+		}
+	]
+}

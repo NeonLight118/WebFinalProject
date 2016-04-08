@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bikeshare>
+	<stationBeanList>
+		<id>15</id>
+		<stationName city="Toronto">College St / Borden St</stationName>
+		<availableDocks>6</availableDocks>
+		<totalDocks>11</totalDocks>
+		<latitude>43.6571</latitude>
+		<longitude>-79.4056</longitude>
+		<statusValue>In Service</statusValue>
+		<statusKey>1</statusKey>
+		<availableBikes>5</availableBikes>
+		<stationImg>Binder1-page-005.jpg</stationImg>
+	</stationBeanList>
+	<stationBeanList>
+		<id>22</id>
+		<stationName city="Toronto">Bathurst St / Dundas St</stationName>
+		<availableDocks>16</availableDocks>
+		<totalDocks>19</totalDocks>
+		<latitude>43.6523</latitude>
+		<longitude>-79.4058</longitude>
+		<statusValue>In Service</statusValue>
+		<statusKey>1</statusKey>
+		<availableBikes>3</availableBikes>
+		<stationImg>Binder1-page-001.jpg</stationImg>
+	</stationBeanList>
+	<stationBeanList>
+		<id>27</id>
+		<stationName city="Toronto">Lower Simcoe St / Lakeshore Blvd W</stationName>
+		<availableDocks>10</availableDocks>
+		<totalDocks>18</totalDocks>
+		<latitude>43.640016</latitude>
+		<longitude>-79.383186</longitude>
+		<statusValue>In Service</statusValue>
+		<statusKey>1</statusKey>
+		<availableBikes>8</availableBikes>
+		<stationImg>Binder1-page-009.jpg</stationImg>
+	</stationBeanList>
+	<stationBeanList>
+		<id>72</id>
+		<stationName city="Toronto">Bremner / Spadina</stationName>
+		<availableDocks>12</availableDocks>
+		<totalDocks>15</totalDocks>
+		<latitude>43.640903</latitude>
+		<longitude>-79.392895</longitude>
+		<statusValue>In Service</statusValue>
+		<statusKey>1</statusKey>
+		<availableBikes>3</availableBikes>
+		<stationImg>Binder1-page-004.jpg</stationImg>
+	</stationBeanList>
+	<stationBeanList>
+		<id>33</id>
+		<stationName city="Toronto">Simcoe St / Wellington St W</stationName>
+		<availableDocks>8</availableDocks>
+		<totalDocks>22</totalDocks>
+		<latitude>43.645533</latitude>
+		<longitude>-79.3854</longitude>
+		<statusValue>In Service</statusValue>
+		<statusKey>1</statusKey>
+		<availableBikes>14</availableBikes>
+		<stationImg>Binder1-page-013.jpg</stationImg>
+	</stationBeanList>
+	<stationBeanList>
+		<id>57</id>
+		<stationName city="Toronto">King St W / Bay St</stationName>
+		<availableDocks>15</availableDocks>
+		<totalDocks>22</totalDocks>
+		<latitude>43.64852</latitude>
+		<longitude>-79.380576</longitude>
+		<statusValue>In Service</statusValue>
+		<statusKey>1</statusKey>
+		<availableBikes>7</availableBikes>
+		<stationImg>Binder1-page-008.jpg</stationImg>
+	</stationBeanList>
+	<stationBeanList>
+		<id>60</id>
+		<stationName city="Toronto">Euclid Ave / Bloor St</stationName>
+		<availableDocks>14</availableDocks>
+		<totalDocks>19</totalDocks>
+		<latitude>43.6643</latitude>
+		<longitude>-79.415</longitude>
+		<statusValue>In Service</statusValue>
+		<statusKey>1</statusKey>
+		<availableBikes>5</availableBikes>
+		<stationImg>Binder1-page-003.jpg</stationImg>
+	</stationBeanList>
+	<stationBeanList>
+		<id>74</id>
+		<stationName city="Toronto">Bay St / Bloor St W</stationName>
+		<availableDocks>10</availableDocks>
+		<totalDocks>15</totalDocks>
+		<latitude>43.669429</latitude>
+		<longitude>-79.389326</longitude>
+		<statusValue>In Service</statusValue>
+		<statusKey>1</statusKey>
+		<availableBikes>5</availableBikes>
+		<stationImg>Binder1-page-002.jpg</stationImg>
+	</stationBeanList>
+	<stationBeanList>
+		<id>44</id>
+		<stationName city="Toronto">Spadina Ave / Sussex Ave</stationName>
+		<availableDocks>23</availableDocks>
+		<totalDocks>27</totalDocks>
+		<latitude>43.664137</latitude>
+		<longitude>-79.402496</longitude>
+		<statusValue>In Service</statusValue>
+		<statusKey>1</statusKey>
+		<availableBikes>4</availableBikes>
+		<stationImg>Binder1-page-014.jpg</stationImg>
+	</stationBeanList>
+	<stationBeanList>
+		<id>29</id>
+		<stationName city="Toronto">Wellesley St E. / Yonge St</stationName>
+		<availableDocks>9</availableDocks>
+		<totalDocks>17</totalDocks>
+		<latitude>43.664953</latitude>
+		<longitude>-79.384423</longitude>
+		<statusValue>In Service</statusValue>
+		<statusKey>1</statusKey>
+		<availableBikes>8</availableBikes>
+		<stationImg>Younge St - Google Maps-page001.jpg</stationImg>
+	</stationBeanList>
+	<stationBeanList>
+		<id>53</id>
+		<stationName city="Toronto">University Ave / Elm St</stationName>
+		<availableDocks>9</availableDocks>
+		<totalDocks>11</totalDocks>
+		<latitude>43.656518</latitude>
+		<longitude>-79.389099</longitude>
+		<statusValue>In Service</statusValue>
+		<statusKey>1</statusKey>
+		<availableBikes>2</availableBikes>
+		<stationImg>Binder1-page-012.jpg</stationImg>
+	</stationBeanList>
+	<stationBeanList>
+		<id>37</id>
+		<stationName city="Toronto">Dundas St / Parliament St</stationName>
+		<availableDocks>6</availableDocks>
+		<totalDocks>11</totalDocks>
+		<latitude>43.659575</latitude>
+		<longitude>-79.365769</longitude>
+		<statusValue>In Service</statusValue>
+		<statusKey>1</statusKey>
+		<availableBikes>5</availableBikes>
+		<stationImg>Binder1-page-007.jpg</stationImg>
+	</stationBeanList>
+	<stationBeanList>
+		<id>58</id>
+		<stationName city="Toronto">Queen St / Ossington Ave</stationName>
+		<availableDocks>15</availableDocks>
+		<totalDocks>23</totalDocks>
+		<latitude>43.643975</latitude>
+		<longitude>-79.419576</longitude>
+		<statusValue>In Service</statusValue>
+		<statusKey>1</statusKey>
+		<availableBikes>8</availableBikes>
+		<stationImg>Binder1-page-010.jpg</stationImg>
+	</stationBeanList>
+	<stationBeanList>
+		<id>41</id>
+		<stationName city="Toronto">Queen St W / Spadina Ave</stationName>
+		<availableDocks>7</availableDocks>
+		<totalDocks>10</totalDocks>
+		<latitude>43.649147</latitude>
+		<longitude>-79.395504</longitude>
+		<statusValue>In Service</statusValue>
+		<statusKey>1</statusKey>
+		<availableBikes>3</availableBikes>
+		<stationImg>Binder1-page-011.jpg</stationImg>
+	</stationBeanList>
+	<stationBeanList>
+		<id>70</id>
+		<stationName city="Toronto">Trinity / Front (Distillery)</stationName>
+		<availableDocks>10</availableDocks>
+		<totalDocks>19</totalDocks>
+		<latitude>43.6513</latitude>
+		<longitude>-79.3603</longitude>
+		<statusValue>In Service</statusValue>
+		<statusKey>1</statusKey>
+		<availableBikes>9</availableBikes>
+		<stationImg>Binder1-page-015.jpg</stationImg>
+	</stationBeanList>
+	<stationBeanList>
+		<id>34</id>
+		<stationName city="Oakville">Dundas Rd / Trafalgar Rd </stationName>
+		<availableDocks>5</availableDocks>
+		<totalDocks>11</totalDocks>
+		<latitude>43.487843</latitude>
+		<longitude>-79.719684</longitude>
+		<statusValue>In Service</statusValue>
+		<statusKey>1</statusKey>
+		<availableBikes>6</availableBikes>
+		<stationImg>Binder1-page-006.jpg</stationImg>
+	</stationBeanList>
+</bikeshare>
