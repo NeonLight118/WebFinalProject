@@ -29,7 +29,8 @@ $(document).ready(function(){
 		var output = "";
 		for (var i in data.members)
 		{
-			output += "<a href=\"#memberInfo\" data-rel=\"popup\"><img src=\"images/" + data.members[i].Spicture + "\" width=\"50\" height=\"50\" alt=\"\"/hspace=\"20\"></a><div data-role=\"popup\" id=\"memberInfo\"><p>name: "+data.members[i].name+"<p></div>";
+			/*output += "<a href=\"#memberInfo\" data-rel=\"popup\"><img src=\"images/" + data.members[i].Spicture + "\" width=\"50\" height=\"50\" alt=\"\"/hspace=\"20\"></a><div data-role=\"popup\" id=\"memberInfo\"><p>name: "+data.members[i].name+"<p></div>";*/
+			
 		}
 		document.getElementById("pic").innerHTML += output ;
 	});
