@@ -26,11 +26,9 @@ $(document).ready(function(){
 	$.getJSON('member.json',function(data)
 	{
 		console.log("json");
-		var output = "";
-		for (var i in data.members)
-		{
-			output += "<a href=\"#memberInfo\" data-rel=\"popup\"><img src=\"images/" + data.members[i].Spicture + "\" width=\"50\" height=\"50\" alt=\"\"/hspace=\"20\"></a><div data-role=\"popup\" id=\"memberInfo\"><p>name: "+data.members[i].name+"<p></div>";
-		}
+		var output = "";		
+			output += "<a href=\"#memberInfo\" data-rel=\"popup\"><img src=\"images/" + data.members[0].Spicture + "\" width=\"50\" height=\"50\" alt=\"\"/hspace=\"20\"></a><div data-role=\"popup\" id=\"memberInfo\"><p>name: "+data.members[0].name+"<p></div>";
+		
 		document.getElementById("pic").innerHTML += output ;
 	});
 });	
