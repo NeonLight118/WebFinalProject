@@ -32,11 +32,11 @@ $(document).ready(function(){
 	
 	$("#set").on("click", "img.clickimg", function(){
 		if ($(this).attr("height") < 200){
-			$(this).animate({height: "500px"});
-			$(this).animate({width: "500px"});
+			$(this).attr("height", "500");
+			$(this).attr("width", "500");
 		}else{
-			$(this).animate({height: "100px"});
-			$(this).animate({width: "100px"});
+			$(this).attr("height", "100");
+			$(this).attr("width", "100");
 		}
 		
 	});
