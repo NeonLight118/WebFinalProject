@@ -20,20 +20,18 @@ $(document).ready(function(){
 		$("<div data-role=\"collapsible\"></div>").html("<h3>"+stationName+"</h3><p>City: " + city + 
 			"<br>ID: "+id+"<br> total Docks: "+totalDocks+"<br> Latitude: "+latitude+"<br> Longitude: "+longitude+
 			"<br> Status Value: "+statusValue+"<br> Status Key: "+statusKey+"<br> Available Bikes: "+availableBikes+
-			"<br> Thumbnail: <br><img src=\"images/"+stationImg+"\" height=\"100\" width=\"100\" class=\"clickimg\"/> <br>"+
+			"<br> Thumbnail: <br><img src=\"images/"+stationImg+"\" height=\"100\" width=\"100\" class=\"clickimg\" onclick=\"changeSize()\"/> <br>"+
 			"<div class=\"ui-btn ui-input-btn ui-shadow\">Google Maps<input type=\"button\" data-corners=\"false\" data-enhanced=\"true\" value=\"Google Maps\" onclick=\"maps(" + 
 			latitude + "," + longitude + "," + index + ")\"></input></div><div id=\"map_canvas" + index + 
 			"\" style=\"height:400px; width:400px;\"></div></p>").appendTo("#set");
 		
 		});
 		$('[data-role=collapsible]').collapsible();
-		
+		function changeSize(){
+			console.log("click worked");
+			$(this).animate({height: "500px"}, "slow");
+		}
 	}
-	});
-	
-	$(".clickimg").click(function(){
-		console.log("fire event");
-		$(this).animate({height: "500px"}, "slow");
 	});
 	
 	$.getJSON('member.json',function(data)
@@ -73,6 +71,8 @@ $(document).ready(function(){
         });
     }
 }
+    
+	
 	
 	
 	
