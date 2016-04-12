@@ -42,8 +42,6 @@ $(document).ready(function(){
 		});
 
 		$('[data-role=collapsible]').collapsible();
-	}
-	});
 
 	
 	$.getJSON('member.json',function(data)
@@ -96,3 +94,4 @@ $(document).ready(function(){
 
         });
     }
+	}
